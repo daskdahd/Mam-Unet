@@ -38,24 +38,26 @@ ture, it performs global sequence dependency modeling and long-range contextual
  
 torch
 
+
 torchvision
 
 tensorboard
 
-scipy==1.2.1
+scipy==1.15.3
 
-numpy==1.17.0
+numpy==1.24.4
 
-matplotlib==3.1.2
+matplotlib==3.10.3
 
-opencv_python==4.1.2.30
-tqdm==4.60.0
+opencv_python==  4.11.0.86
 
 Pillow==8.2.0
 
 h5py==2.10.0
 
 labelme==3.16.7
+
+mamba_ssm  == 2.2.4
 
 
 Prompt：
