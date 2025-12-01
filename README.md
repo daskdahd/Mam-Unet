@@ -3,7 +3,7 @@ This code is directly related to our manuscript submitted to the journal Compute
 MamUnet
 
 
-This code is directly related to our manuscript submitted to the journal PATTERN ANALYSIS AND APPLICATIONS. We encourage readers to cite the manuscript when using this code and welcome submissions to PATTERN ANALYSIS AND APPLICATIONS
+This code is directly related to our manuscript submitted to the journal Signal,image and video processed. We encourage readers to cite the manuscript when using this code and welcome submissions to PATTERN ANALYSIS AND APPLICATIONS
 
 ![总框架图](https://github.com/user-attachments/assets/3c3d4935-f7c5-4400-9046-2f32cd2ffeca)
 
