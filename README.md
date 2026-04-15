@@ -59,6 +59,4 @@ labelme==3.16.7
 mamba_ssm  == 2.2.4
 
 
-Prompt：
 
-The complete training code and data set preprocessing script will be updated after the paper is published. Please pay attention to the project update！
